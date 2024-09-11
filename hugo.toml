@@ -22,7 +22,7 @@ paginate = 8
 
 [params]
   author = "Henry Lovett"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  description = "An Electronics Engineer who thought writing a blog would be fun."
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"

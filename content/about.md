@@ -2,8 +2,22 @@
 title = "About"
 +++
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia lorem quis sodales auctor. Donec bibendum odio leo, bibendum iaculis lectus dapibus sit amet. Etiam ut euismod lectus, vel finibus metus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer quis vestibulum justo. Duis scelerisque ullamcorper sem, eget congue lorem ultrices mattis. Nam ut mollis tellus, id facilisis turpis. Duis ac egestas mi, a mattis dolor. Curabitur vestibulum est nec tortor hendrerit, vehicula malesuada quam tempor. Duis ornare tortor dapibus, scelerisque est lacinia, aliquet mi. Vivamus convallis malesuada augue ac viverra. Sed molestie erat at sem dapibus porttitor. Vestibulum lacinia, enim id feugiat varius, felis erat sollicitudin nisl, sit amet semper nisi nunc in nisl. Sed dapibus ullamcorper nulla, et molestie lacus accumsan ac.
+Hi! I'm Henry. I am an Electronics Engineer with a passion of making things - any things. I will give anything a go and love to have a problem to solve. 
 
-Fusce auctor in justo nec porta. Aliquam vitae molestie libero. In scelerisque dolor ac est lacinia, at consectetur neque vulputate. Curabitur ornare lorem vitae euismod vestibulum. Sed non arcu nunc. Suspendisse potenti. Maecenas tristique, dui egestas mattis pulvinar, tortor ligula mollis libero, ac ullamcorper erat nibh in augue. Curabitur nunc diam, pretium at porta et, volutpat sit amet ligula. Proin urna lorem, luctus sit amet metus quis, tempus rutrum augue. Phasellus ut nunc dolor.
+I have over 10 years of professional experience within Electronics engineering and love to apply my knowledge at home. I am a keen on working / developing with / on PCBs, Linux, Microcontrollers, FPGAs, Radios, Web - and across the hardware and software disciplines. 
 
-Duis a porta mi, non viverra erat. Nam tincidunt lorem nec sollicitudin laoreet. Mauris faucibus vitae urna ac aliquet. Vivamus rutrum rhoncus tempor. Donec massa diam, molestie sit amet nulla eu, venenatis egestas urna. Vivamus hendrerit elit velit, ut volutpat diam condimentum vel. Etiam ultricies, nulla tincidunt rhoncus placerat, velit nisl gravida velit, mollis vestibulum risus mauris sed lectus.
+This blog is an attempt to document all of my goings on, from cooking to crochet and from lego to lathes. There will be a lot of back filling of projects that I have done in the past that I feel are of note. 
+
+Subjects include, but not limited to: 
+ - Electronics (personal hobbies, this is!)
+ - Machining (lathes, mills)
+ - Woodworking
+ - Cooking
+ - Crochet
+ - DIY
+ - Engines, cars and motorbikes
+ - General musings and rants
+ - Anything else that can be taken apart, tinkered with, modified or stuff I find interesting!
+
+
+This blog is very much a minimum viable project. I will eventually get a mailing list going and a contact me button, but for now, this HTML will just be put on the ether that is the internet and I'll never know if anyone reads it. But that's not the point, right? 
